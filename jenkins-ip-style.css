@@ -81,3 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 #login-field {
   color: black;
 }
+
+#login-field span {
+  color: black;
+}
