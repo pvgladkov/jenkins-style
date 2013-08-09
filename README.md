@@ -1,2 +1,2 @@
-jenkins-ip-style
+jenkins-style
 ================
